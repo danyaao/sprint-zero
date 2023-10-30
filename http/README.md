@@ -24,12 +24,21 @@ HTTP - самый популярный протокол для клиент-се
 Для взаимодействия сервера и клиента, вероятно, будет удобнее использовать REST API, т.к. он более понятный, читать JSON легче, чем бинарные файлы, использующиеся в gRPC. А gRPC больше подходит для взаимодействия микросервисов, т.к. обеспечивает максимальную скорость, а также мультиязычность.
 
 https://developer.mozilla.org/ru/docs/Web/HTTP/Overview
+
 https://cloud.yandex.ru/docs/glossary/rest-api
-https://blog.skillfactory.ru/glossary/rest-api/
+
+https://blog.skillfactory.ru/glossary/rest-api
+
 https://cloud.yandex.ru/docs/glossary/grpc
-https://blog.skillfactory.ru/glossary/soap-api/
+
+https://blog.skillfactory.ru/glossary/soap-api
+
 https://www.youtube.com/watch?v=2IMaWdUXkqE
+
 https://www.youtube.com/watch?v=cDdSzwU2Bic
+
 https://www.youtube.com/watch?v=ij79SPK89bw
+
 https://www.youtube.com/watch?v=bfdF4AJELDc
+
 https://www.youtube.com/watch?v=XaTwnKLQi4A
